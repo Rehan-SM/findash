@@ -146,4 +146,4 @@ def market(n_clicks, market_cap, sector, sort_by):
 
 
 if __name__ == "__main__":
-    app.run_server(debug=True, host='192.168.0.165')
+    app.run_server()
